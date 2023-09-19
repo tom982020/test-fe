@@ -7,7 +7,7 @@ export const HeaderComponent = () => {
 				<div className="self-center place-self-start pl-4">
 					<img
 						className="rounded-full h-10 w-10 xl:h-16 xl:w-16"
-						src="https://res.cloudinary.com/ecommerce-qts/image/upload/v1690772125/cld-sample-5.jpg"
+						src="/Logo.png"
 					/>
 				</div>
 				<div className="justify-self-end">
@@ -21,7 +21,7 @@ export const HeaderComponent = () => {
                         </div> */}
 						<img
 							className="rounded-full h-10 w-10 xl:h-16 xl:w-16 self-center place-self-center"
-							src="https://res.cloudinary.com/ecommerce-qts/image/upload/v1690772125/cld-sample-3.jpg"
+							src="/Avatar.png"
 						/>
 					</div>
 				</div>

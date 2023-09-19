@@ -45,7 +45,7 @@ export const ContentComponent: React.FC<ChildProps> = (props) => {
 								</div>
 								<div className="px-4 pt-28">
 									<div
-										className="w-32 xl:w-64 p-2 bg-green-600 text-white text-sm xl:text-2xl text-center shadow-none xl:shadow-md shadow-green-600"
+										className="w-36 xl:w-64 p-2 bg-green-600 text-white text-sm xl:text-2xl text-center shadow-none xl:shadow-md shadow-green-600"
 										onClick={() => nextJokeNotFunny(prop._id)}>
 										This is not funny.
 									</div>
